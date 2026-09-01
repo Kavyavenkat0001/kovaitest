@@ -18,9 +18,3 @@ category.
   are picked up automatically on the next push to `main`.
 - New articles are added by committing a new Markdown file under
   `docs/articles/`.
-
-## Referencing images
-
-```markdown
-![description](/docs/.document360/assets/example.png)
-```
