@@ -18,5 +18,6 @@ category.
   are picked up automatically on the next push to `main`.
 - New articles are added by committing a new Markdown file under
   `docs/articles/`.
+  [test](https://kovai-info-tech.document360.io/docs/getting-started){target= `_blank`}
 
 <a href="https://example.com" target="_blank" rel="noopener noreferrer">text</a>
