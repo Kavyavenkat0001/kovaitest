@@ -7,7 +7,7 @@ category.
 ## What this repo contains
 
 - `docs/articles/` — Markdown files. Each file becomes an article in the
-  linked Document360 category.
+  linked Document360 category.test git sync
 - `docs/.document360/assets/` — images and other media referenced by the
   articles.
 
