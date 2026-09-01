@@ -18,3 +18,5 @@ category.
   are picked up automatically on the next push to `main`.
 - New articles are added by committing a new Markdown file under
   `docs/articles/`.
+
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">text</a>
